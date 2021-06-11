@@ -1,2 +1,2 @@
 # data71200
-Summer Machine Learning and Artificial Intelligence 
+Summer class about starting out with Machine Learning and Artificial Intelligence 
